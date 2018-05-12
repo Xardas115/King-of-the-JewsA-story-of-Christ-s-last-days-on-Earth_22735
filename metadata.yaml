@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9288
     wikipedia: http://en.wikipedia.org/wiki/William_Thomas_Stead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22735#King-of-the-JewsA-story-of-Christ-s-last-days-on-Earth
 gutenberg_issued: '2007-09-23'
 gutenberg_type: Text
 identifiers:
